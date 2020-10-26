@@ -1,0 +1,26 @@
+body
+{
+    background-color: bisque;
+    font-family: 'Saira', sans-serif;
+}
+
+.carlistbox
+{
+/*     text-align: center;
+ */    margin-top: 5rem;
+
+}
+
+.valuebox
+{
+    margin-top: 1rem;
+}
+
+fieldset
+{
+    margin-top: 2rem;
+    width: 25rem;
+    
+  
+    
+}
